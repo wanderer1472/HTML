@@ -1,0 +1,22 @@
+body {
+    background-color: blueviolet;
+}
+
+span {
+     font-style: italic;
+
+}
+p {
+
+    font-size: 24;
+    background-color: #33d21e;
+    margin: 30px;
+
+}
+
+.coneiner {
+    display: inline-block;
+    border: 1px solid #312f2f;
+    padding-right: 20px;
+
+}
